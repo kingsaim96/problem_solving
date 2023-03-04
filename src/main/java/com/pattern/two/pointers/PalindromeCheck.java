@@ -1,4 +1,4 @@
-package com.pattern.sliding.window;
+package com.pattern.two.pointers;
 
 /**
  * Note: A phrase, word or sequence is a palindrome that reads the same backwards as forwards.
